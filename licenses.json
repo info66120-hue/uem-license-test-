@@ -1,28 +1,12 @@
-{
-  "licenses": {
-    "UEM-TEST1-ABC123-DEF456": {
-      "domain": "test-domain.com",
-      "product": "UEM Plugin",
-      "status": "active",
-      "expires": "2025-12-31",
-      "type": "standard",
-      "max_domains": 1,
-      "activated": "2024-10-20",
-      "ip": "127.0.0.1"
-    },
-    "UEM-PRO1-XYZ789-UVW012": {
-      "domain": "*",
-      "product": "UEM Pro",
-      "status": "active", 
-      "expires": "2026-12-31",
-      "type": "pro",
-      "max_domains": 10,
-      "activated": "2024-10-20"
-    }
+[
+  {
+    "key": "UEM-12345",
+    "status": "active",
+    "expires": "2027-01-01"
   },
-  "stats": {
-    "total": 2,
-    "active": 2,
-    "expired": 0
+  {
+    "key": "UEM-67890",
+    "status": "active",
+    "expires": "2026-12-31"
   }
-}
+]
