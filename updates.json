@@ -1,0 +1,16 @@
+{
+  "UEM Plugin": {
+    "latest": "2.1.3",
+    "url": "https://github.com/YOURUSERNAME/uem-plugin/releases/download/v2.1.3/uem-plugin.zip",
+    "changelog": "- Fixed licensing\n- Added subscriptions\n- Security updates",
+    "requires": "PHP 7.4+, WordPress 6.0+",
+    "size": "2.1 MB"
+  },
+  "UEM Pro": {
+    "latest": "1.5.2",
+    "url": "https://github.com/YOURUSERNAME/uem-pro/releases/download/v1.5.2/uem-pro.zip",
+    "changelog": "- Advanced features\n- API access\n- White-label",
+    "requires": "PHP 8.0+",
+    "size": "4.8 MB"
+  }
+}
