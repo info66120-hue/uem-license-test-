@@ -1,0 +1,16 @@
+{
+  "products": {
+    "UEM Plugin": {
+      "name": "UEM Core Plugin",
+      "price": "$99/year",
+      "features": ["Basic licensing", "Domain lock", "Updates"],
+      "max_domains": 1
+    },
+    "UEM Pro": {
+      "name": "UEM Professional",
+      "price": "$299/year", 
+      "features": ["Unlimited domains", "API access", "Support", "White-label"],
+      "max_domains": 999
+    }
+  }
+}
