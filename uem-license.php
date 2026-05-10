@@ -11,7 +11,8 @@ header('Access-Control-Allow-Headers: Content-Type');
 if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') exit('{}');
 
 // 🎯 YOUR GITHUB REPO (CHANGE THIS)
-define('GITHUB_REPO', 'YOURUSERNAME/uem-license-api');
+// Line ~15 - YOUR REPO
+define('GITHUB_REPO', 'info66120-hue/uem-license-test-');
 define('GITHUB_TOKEN', ''); // Optional - create at github.com/settings/tokens
 
 $input = array_merge($_GET, $_POST);
