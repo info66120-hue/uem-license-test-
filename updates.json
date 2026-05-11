@@ -1,9 +1,9 @@
 {
-  "new_version": "1.0.1",
-  "download_url": "https://abc.com/myplugin/abc.zip",
+  "new_version": "1.0.2",
+  "download_url": "https://ultimateeducationmanagment.wuaze.com/myplugin/plugin.zip",
   "requires": "5.0",
   "tested": "6.8",
-  "homepage": "https://myinstitution.wuaze.com",
+  "homepage": "https://ultimateeducationmanagment.wuaze.com",
   "description": "Universal Education Management latest version.",
-  "changelog": "<h4>Version 1.0.1</h4><ul><li>Bug fixes</li><li>License improvements</li></ul>"
+  "changelog": "<h4>Version 1.0.2</h4><ul><li>Bug fixes</li><li>License improvements</li></ul>"
 }
